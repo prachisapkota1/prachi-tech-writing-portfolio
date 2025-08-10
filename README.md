@@ -1,2 +1,2 @@
-# prachi-tech-writing-portfolio
-Hi! I'm a technical writer in training with a background in IT project management, content writing, and SEO. This portfolio includes selected projects created using tools like Adobe FrameMaker, MadCap Flare, and HTML/CSS.
+Technical-Writing-Portfolio
+I’m a Technical Communication student at Seneca Polytechnic, currently in my final semester. This portfolio showcases course projects that demonstrate my skills in user-focused documentation, Adobe FrameMaker, MadCap Flare, and Microsoft Style Guide-compliant writing. Each project reflects industry-standard practices in structure, formatting, and accessibility.
